@@ -13,7 +13,7 @@ Las herramientas utilizadas para su desarrollo fueron:
 
 _Este proyecto es la solucion a uno de los desafios de la plataforma frontEnd Mentor_.
 
-**Alumno:** Nayda peñaloza meza
+**Alumno:** Nayda Rebeca Peñaloza Meza
 
  | Especialidad  | Comentario |
 | -------------  |:-------------:|
